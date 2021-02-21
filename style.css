@@ -1,0 +1,28 @@
+.Title{
+    color: white;
+    background-color: rgb(10, 128, 98);
+    text-align: center;
+    line-height: 20px;
+}
+
+.origami{
+   color: black;
+   background-color: white;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
+p{
+text-align:center ;
+}
+a{
+   display: flex;
+   justify-content: center;
+}
+.sm{
+   display: flex;
+   justify-content: left;
+   
+
+}
